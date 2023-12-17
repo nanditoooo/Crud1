@@ -1,0 +1,49 @@
+
+.titulo {
+    
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em; 
+    background-color: rgb(133, 136, 143);
+}
+
+form {
+    
+    max-width: 300px; 
+    margin: auto;
+}
+
+input {
+    
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    font-size: 16px; 
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px; 
+}
+
+
+.div-listado {
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+h2 {
+    font-size: 1.5em; 
+    background-color: rgb(136, 141, 152);
+}
+
